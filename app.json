@@ -1,7 +1,7 @@
 {
-  "name": "RavagerBot",
+  "name": "ART GDRIVE RavagerBot",
   "description": "A bot that sails the high seas and brings treasures from the land unknown",
-  "repository": "https://github.com/CoolFool/Ravager",
+  "repository": "https://github.com/assc0d3r/ART-Gdrive-Ravager/edit/main/app.json",
   "stack":"container",
   "env":{
     "APP_URL":{
